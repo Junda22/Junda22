@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Python
 
-#  Skilled languages:
+##  Skilled Languages:
 - C (C#)
 - PHP, HTML, JS
 - JAVA
 
-#  Skilled Programs:
+##  Skilled Programs:
   Adobe Photoshop, Illustrator, After Effects
