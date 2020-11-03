@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Python
 
 #  Skilled languages:
-  C (C#)
-  PHP, HTML, JS
-  JAVA
+- C (C#)
+- PHP, HTML, JS
+- JAVA
 
 #  Skilled Programs:
   Adobe Photoshop, Illustrator, After Effects
