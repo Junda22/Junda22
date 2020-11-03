@@ -2,7 +2,7 @@
 
 
 Here are some ideas to get you started:
-- I'm a Mechatronics Engineer
+- ⚡ I'm a Mechatronics Engineer
 
 - 🔭 I’m currently working on Coding
 - 🌱 I’m currently learning Python
