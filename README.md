@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - JAVA
 
 ##  Skilled Programs:
-  Adobe Photoshop, Illustrator, After Effects
+  ### Adobe ### Photoshop, Illustrator, After Effects
