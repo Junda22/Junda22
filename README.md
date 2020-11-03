@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Junda22/Junda22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - I'm a Mechatronics Engineer
@@ -17,4 +15,3 @@ Here are some ideas to get you started:
 
 #  Skilled Programs:
   Adobe Photoshop, Illustrator, After Effects
--->
